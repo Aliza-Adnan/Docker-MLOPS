@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Mar 13 17:01:33 2023
+
+@author: aliza
+"""
+
+flask
+numpy
+pandas
+pickle
+requests
+sklearn
